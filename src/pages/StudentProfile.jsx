@@ -15,11 +15,11 @@ function StudentProfile() {
       <div className="bg-white rounded-2xl shadow-lg border border-purple-100 p-6">
         <div className="flex flex-col sm:flex-row items-center sm:items-start space-y-4 sm:space-y-0 sm:space-x-5">
           <div className="w-20 h-20 rounded-2xl bg-gradient-to-tr from-purple-600 to-indigo-600 text-white flex items-center justify-center text-3xl font-extrabold shadow-md shadow-purple-300">
-            RP
+            MJ
           </div>
           <div className="flex-1 text-center sm:text-left">
             <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between">
-              <h2 className="text-2xl font-bold text-gray-900">Rahul Patel</h2>
+              <h2 className="text-2xl font-bold text-gray-900">Mukesh Joshi</h2>
               <span className="mt-1 sm:mt-0 inline-block bg-purple-100 text-purple-800 text-xs px-3 py-1 rounded-full font-bold">
                 Semester V
               </span>
